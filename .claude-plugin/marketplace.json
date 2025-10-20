@@ -1,0 +1,39 @@
+{
+  "plugins": [
+    {
+      "name": "seo-content-creation",
+      "version": "1.2.2",
+      "path": "plugins/seo-content-creation"
+    },
+    {
+      "name": "seo-technical-optimization",
+      "version": "1.2.2",
+      "path": "plugins/seo-technical-optimization"
+    },
+    {
+      "name": "seo-analysis-monitoring",
+      "version": "1.2.2",
+      "path": "plugins/seo-analysis-monitoring"
+    },
+    {
+      "name": "content-marketing",
+      "version": "1.2.2",
+      "path": "plugins/content-marketing"
+    },
+    {
+      "name": "business-analytics",
+      "version": "1.2.2",
+      "path": "plugins/business-analytics"
+    },
+    {
+      "name": "customer-sales-automation",
+      "version": "1.2.2",
+      "path": "plugins/customer-sales-automation"
+    },
+    {
+      "name": "hr-legal-compliance",
+      "version": "1.2.2",
+      "path": "plugins/hr-legal-compliance"
+    }
+  ]
+}
