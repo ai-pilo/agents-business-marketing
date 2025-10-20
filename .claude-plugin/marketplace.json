@@ -1,41 +1,45 @@
 {
   "name": "agents-business-marketing",
-  "owner": "ai-pilo",
+  "owner": {
+    "name": "ai-pilo",
+    "email": "",
+    "url": "https://github.com/ai-pilo"
+  },
   "plugins": [
     {
       "name": "seo-content-creation",
       "version": "1.2.2",
-      "source": "plugins/seo-content-creation"
+      "source": "./plugins/seo-content-creation"
     },
     {
       "name": "seo-technical-optimization",
       "version": "1.2.2",
-      "source": "plugins/seo-technical-optimization"
+      "source": "./plugins/seo-technical-optimization"
     },
     {
       "name": "seo-analysis-monitoring",
       "version": "1.2.2",
-      "source": "plugins/seo-analysis-monitoring"
+      "source": "./plugins/seo-analysis-monitoring"
     },
     {
       "name": "content-marketing",
       "version": "1.2.2",
-      "source": "plugins/content-marketing"
+      "source": "./plugins/content-marketing"
     },
     {
       "name": "business-analytics",
       "version": "1.2.2",
-      "source": "plugins/business-analytics"
+      "source": "./plugins/business-analytics"
     },
     {
       "name": "customer-sales-automation",
       "version": "1.2.2",
-      "source": "plugins/customer-sales-automation"
+      "source": "./plugins/customer-sales-automation"
     },
     {
       "name": "hr-legal-compliance",
       "version": "1.2.2",
-      "source": "plugins/hr-legal-compliance"
+      "source": "./plugins/hr-legal-compliance"
     }
   ]
 }
